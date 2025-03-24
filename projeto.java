@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class SomaNumeros {
+public class projeto {
     public static void main(String[] args) {
         String num1Str = JOptionPane.showInputDialog("Digite o primeiro número inteiro:");
         int num1 = Integer.parseInt(num1Str);
